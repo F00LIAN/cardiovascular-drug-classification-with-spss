@@ -252,7 +252,7 @@ Extended Analysis:
 - Relevant literature on classification algorithms and their applications in healthcare.
 
 ## Contact
-For any queries or further discussion, please contact Julian Sotelo at [jasotel1@outlook.com].
+For any queries or further discussion, please contact Julian Sotelo at jasotel1@outlook.com.
 
 ## License
 This project is licensed under the MIT License.
