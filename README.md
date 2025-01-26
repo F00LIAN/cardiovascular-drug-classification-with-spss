@@ -244,9 +244,12 @@ Extended Analysis:
   - Incorporate additional datasets or variables to enrich the analysis and improve classification robustness.
 
 ## References
-[IBM SPSS Statistics Documentation](https://www.ibm.com/support/pages/ibm-spss-statistics-28-documentation)
-[Kaggle Cardiovascular Dataset](https://www.kaggle.com/code/matinmahmoudi/drug-classification-quick-start-for-beginners/input)
-Relevant literature on classification algorithms and their applications in healthcare.
+
+- [IBM SPSS Statistics Documentation](https://www.ibm.com/support/pages/ibm-spss-statistics-28-documentation)
+
+- [Kaggle Cardiovascular Dataset](https://www.kaggle.com/code/matinmahmoudi/drug-classification-quick-start-for-beginners/input)
+
+- Relevant literature on classification algorithms and their applications in healthcare.
 
 ## Contact
 For any queries or further discussion, please contact Julian Sotelo at [jasotel1@outlook.com].
